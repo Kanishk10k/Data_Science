@@ -1,0 +1,4 @@
+2025-08-26 12:45:47 - ArithmeticApp - DEBUG - Adding 10 + 15 = 25
+2025-08-26 12:45:47 - ArithmeticApp - DEBUG - Subtracting 10 - 15 = -5
+2025-08-26 12:45:47 - ArithmeticApp - DEBUG - Multiplying 10 * 15 = 150
+2025-08-26 12:45:47 - ArithmeticApp - DEBUG - Dividing 10 / 15 = 0.6666666666666666
