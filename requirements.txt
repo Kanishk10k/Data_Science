@@ -16,3 +16,11 @@ imblearn
 networkx
 statsmodels
 nltk
+tensorflow==2.15.0
+tensorboard
+scikeras
+keras
+gensim
+tqdm
+catboost
+xgboost
